@@ -50,7 +50,7 @@ To analyze Amazon sales data and identify patterns in product category performan
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Amazon_Sales_Dashboard.png)
+![Dashboard Screenshot](https://github.com/Sathwik-pabba/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales.Dashboard.jpg)
 
 ---
 
