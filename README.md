@@ -84,15 +84,15 @@ To analyze Amazon sales data and identify patterns in product category performan
 
 ## 📁 Files Included
 
-- `Amazon_Sales_Dashboard.pbix` – Power BI Dashboard  
-- `Amazon_Sales_Dataset.xlsx` – Dataset file  
-- `Amazon_Sales_Dashboard.png` – Dashboard image  
+- `Amazon Sales Dashboard.pbix` – Power BI Dashboard  
+- `Amazon+retail+store_dataset.xlsx` – Dataset file  
+- `Amazon_Sales_Dashboard.jng` – Dashboard image  
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I'm a data analyst with expertise in **Power BI**, **Tableau**, **SQL**, **Python**, **Pandas**, **NumPy**, **Excel**, and **Data Visualization**. I love creating impactful dashboards from raw data.  
+I'm a data analyst with expertise in **Power BI**, **Tableau**, **SQL**, **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Excel**, and **Data Visualization**. I love creating impactful dashboards from raw data.  
 Check out more on my [GitHub Profile](https://github.com/Sathwik-pabba)
 
 ---
