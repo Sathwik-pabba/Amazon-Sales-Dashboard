@@ -92,8 +92,8 @@ To analyze Amazon sales data and identify patterns in product category performan
 
 ## 🙋‍♂️ About Me
 
-I'm a data analyst with expertise in **Power BI**, **Tableau**, **SQL**, **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Excel**, and **Data Visualization**. I love creating impactful dashboards from raw data.  
-Check out more on my [GitHub Profile](https://github.com/Sathwik-pabba)
+I'm a data analyst with expertise in **Power BI**, **Tableau**, **SQL**, and **Python**, **Pandas**, **NumPy**, and **data visualization**, **Matplotlib**, **Seaborn**, **MongoDB**, **Excel**. Passionate about turning raw data into clear business insights.  
+Check out more on my [GitHub Profile](https://github.com/pabbasathwik).
 
 ---
 
